@@ -1,7 +1,7 @@
 package com.gt;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 //        while -
 //        String userInput = "y";
 //
@@ -44,12 +44,28 @@ public class Main {
 //                break;
 //            }
 //        }
-        for(int i=0;i<100;i++){
-            if(i < 15){
-                continue;
-            }
-            System.out.println(i);
-        }
+//        for(int i=0;i<100;i++){
+//            if(i < 15){
+//                continue;
+//            }
+//            System.out.println(i);
+//        }
+
+
+        /////////
+
+//        for(int i=5;i<=10;i++) {
+//
+//        }
+
+//        int i = 5;
+//        while(i<=10){
+//            System.out.println(i);
+//            Thread.sleep(1000);
+//            i++;
+//        }
+
+
 
 
     }
